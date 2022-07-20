@@ -27,17 +27,17 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item active">
-                        <a class="nav-link " aria-current="page" href="Carwash/index.php"><i class="fa fa-car p-2" aria-hidden="true"></i>Services</a>
+                        <a class="nav-link " aria-current="page" href="CarWash/index.php"><i class="fa fa-car p-2" aria-hidden="true"></i>Services</a>
 
                     </li>
 
 
                     <li class="nav-item">
-                        <a class="nav-link"  aria-current="page" href="Carwash/about.html"><i class="fa-solid fa-circle-info p-2"></i>About</a>
+                        <a class="nav-link"  aria-current="page" href="CarWash/about.html"><i class="fa-solid fa-circle-info p-2"></i>About</a>
                     </li>
 
                     <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="Carwash/profile.php"><i class="fa-solid fa-address-card p-2"></i>Profile</a>
+                    <a class="nav-link" aria-current="page" href="CarWash/profile.php"><i class="fa-solid fa-address-card p-2"></i>Profile</a>
                     </li>
 
                     
